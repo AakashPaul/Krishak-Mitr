@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Agriculture</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Farmer\'sFriend</string>
+    <string name="settingmenu">Rain Prediction</string>
+    <string name="selectstate">Select State :</string>
+    <string name="letsgo"> lets go </string>
+    <string name="state1">Haryana,Delhi&amp;Chandigarh </string>
+    <string name="s2">Assam&amp;Meghalya</string>
+    <string name="s3">Orissa</string>
+    <string name="s4">Jharkhand</string>
+    <string name="s5">Arunachal Pradesh </string>
+    <string name="s6">Andaman &amp; Nicobar Islands</string>
+    <string name="s7">Naga Mani Mizo Tripura</string>
+    <string name="s8">Sub Himalya ,West Bengal &amp; Sikkim</string>
+    <string name="s9">Gangetic West Bengal</string>
+    <string name="s10">Bihar</string>
+    <string name="s11">East Uttar Pradesh</string>
+    <string name="s12">West Uttar Pradesh</string>
+    <string name="s13">Uttrakhand</string>
+    <string name="s14">Punjab</string>
+    <string name="s15">Himachal Pradesh</string>
+    <string name="s16">Jammu &amp; Kashmir</string>
+    <string name="s17">West Rajasthan</string>
+    <string name="s18">East Rajasthan</string>
+    <string name="s19">West Madhyapradesh</string>
+    <string name="s20">East Madhyapradesh</string>
+    <string name="s21">Gujarat Region</string>
+    <string name="s22">Saurashtra &amp; Kutch</string>
+    <string name="s23">Konkan &amp; Goa</string>
+    <string name="s24">Madhya Maharashtra</string>
+    <string name="s25">Matathwada</string>
+    <string name="s26">Vidarbha</string>
+    <string name="s27">Chattisgarh</string>
+    <string name="s28">Coastal Andhra Pradesh</string>
+    <string name="s29">Telangana</string>
+    <string name="s30">Rayalseema</string>
+    <string name="s31">Tamil Nadu</string>
+    <string name="s35">Kerala</string>
+    <string name="s36">Lakshadweep</string>
+
+
+
+
+</resources>

@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.kkapp.agriculture.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/settingmenu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/gov"
+        android:orderInCategory="100"
+        android:title="gov"
+        android:icon="@android:drawable/ic_dialog_email"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/translate"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        android:icon="@drawable/ic_translate_black_24dp"
+        app:showAsAction="never" />
+</menu>

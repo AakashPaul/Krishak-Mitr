@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">कृषि</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">कृषि मित्र</string>
+    <string name="settingmenu">बारिश की भविष्यवाणी</string>
+    <string name="selectstate">राज्य चुनें : </string>
+    <string name="letsgo">चलो चलते हैं</string>
+    <string name="state1">हरियाणा, दिल्ली और छत्तीसगढ़ </string>
+    <string name="s2">अस्साम और मेघालय</string>
+    <string name="s3">ओडिशा</string>
+    <string name="s4">झारखंड</string>
+    <string name="s5">अरुणाचल परदेश </string>
+    <string name="s6">अंडमान व नोकोबार द्वीप समूह</string>
+    <string name="s7">नागा मणि मिजो त्रिपुरा</string>
+    <string name="s8">उप हिमाल्य, पश्चिम बंगाल और सिक्किम</string>
+    <string name="s9">गैंगेटिक पश्चिम बंगाल</string>
+    <string name="s10">बिहार</string>
+    <string name="s11">पूर्वी उत्ताराप्रदेश</string>
+    <string name="s12">पश्चिम उत्कर्ष परदेश</string>
+    <string name="s13">उत्तराखंड</string>
+    <string name="s14">पंजाब</string>
+    <string name="s15">हिमाचल परदेश</string>
+    <string name="s16">जम्मू और काश्मीर</string>
+    <string name="s17">पश्चिम राजस्थान</string>
+    <string name="s18">पूर्व राजस्थान</string>
+    <string name="s19">पश्चिम मध्यप्रदेश</string>
+    <string name="s20">पूर्व मध्यपदेश</string>
+    <string name="s21">गुजरात क्षेत्र</string>
+    <string name="s22">सहरहत्रा और कच्छ</string>
+    <string name="s23">कोंकण और गोआ</string>
+    <string name="s24">मध्य महाराष्ट्र</string>
+    <string name="s25">मथवाडा</string>
+    <string name="s26">विदर्भ</string>
+    <string name="s27">छत्तीसगढ़</string>
+    <string name="s28">तटवर्ती और पारदेश</string>
+    <string name="s29">तेलंगाना</string>
+    <string name="s30">रायलसीमा</string>
+    <string name="s31">तमिल नाडु</string>
+    <string name="s35">केरल</string>
+    <string name="s36">लक्षद्वीप</string>
+
+</resources>

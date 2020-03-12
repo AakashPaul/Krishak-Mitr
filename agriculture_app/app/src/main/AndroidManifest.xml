@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kkapp.agriculture">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".rain5"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".rain4"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".rain3"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".rain2"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".Bankact"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".rain"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".prediction"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Main4Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Main3Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Main2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
